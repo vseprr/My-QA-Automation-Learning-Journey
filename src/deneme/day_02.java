@@ -7,7 +7,7 @@ public class day_02 {
         int number=200;
         byte number1=(byte) number;
         System.out.println(number1);
-        System.out.println("naber");
+
 
 
     }

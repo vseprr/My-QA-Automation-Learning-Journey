@@ -2,7 +2,7 @@ package deneme;
 
 import java.util.Scanner;
 
-public class git kelime {
+public class kelime {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("lutfen isim gir");
